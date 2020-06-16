@@ -1,4 +1,4 @@
-FROM node:10-slim
+FROM nikolaik/ python3.8-nodejs12
 
 
 LABEL version="1.0.0"

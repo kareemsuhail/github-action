@@ -1,5 +1,6 @@
 # Github Action for Serverless
 
+This Version is modefied by Kareem to add support for python lambada functions with python3.8
 This Action wraps the [Serverless Framework](https://serverless.com) to enable common Serverless commands.
 
 ## Usage
